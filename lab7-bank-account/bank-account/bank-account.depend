@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1689334229 source:c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\bank-account\bankaccountimp.cpp
+	"BankAccount.h"
+	<iostream>
+
+1689334359 c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\bank-account\bankaccount.h
+
+1689334283 source:c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\bank-account\checkingaccountimp.cpp
+	"BankAccount.h"
+	<iostream>
+
+1689334339 source:c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\bank-account\main.cpp
+	<iostream>
+	"BankAccount.h"
+	"CheckingAccount.h"
+	"SavingsAccount.h"
+
+1689334085 c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\bank-account\checkingaccount.h
+
+1689334124 c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\bank-account\savingsaccount.h
+
+1689334324 source:c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\bank-account\savingsaccountimp.cpp
+	"BankAccount.h"
+	"SavingsAccount.h"
+	<iostream>
+

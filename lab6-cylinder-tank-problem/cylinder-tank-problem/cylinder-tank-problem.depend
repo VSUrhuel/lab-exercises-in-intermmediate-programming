@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1689410021 source:c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\cylinder-tank-problem\cylindertankimp.cpp
+	"CylinderTank.h"
+	<cmath>
+	<iostream>
+
+1689409042 c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\cylinder-tank-problem\cylindertank.h
+
+1689409779 source:c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\cylinder-tank-problem\main.cpp
+	<iostream>
+	"CylinderTank.h"
+

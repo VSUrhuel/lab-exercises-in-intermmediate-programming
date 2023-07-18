@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1689414525 source:c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\rolling-dice-simulation\diceimp.cpp
+	"Dice.h"
+	<cmath>
+	<stdlib.h>
+	<time.h>
+
+1689412587 c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\rolling-dice-simulation\dice.h
+
+1689413342 source:c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\rolling-dice-simulation\riggeddiceimp.cpp
+	"RiggedDice.h"
+	<cmath>
+	<stdlib.h>
+	<time.h>
+
+1689413847 c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\rolling-dice-simulation\riggeddice.h
+	"Dice.h"
+
+1689413713 source:c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\rolling-dice-simulation\main.cpp
+	<iostream>
+	"TwoDice.h"
+
+1689412648 c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\rolling-dice-simulation\twodice.h
+	"Dice.h"
+	"RiggedDice.h"
+
+1689414469 source:c:\users\johnr\documents\bscs-i\intermediate programming\lab exercises\rolling-dice-simulation\twodiceimp.cpp
+	"TwoDice.h"
+	"Dice.h"
+	<iostream>
+
